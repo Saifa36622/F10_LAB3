@@ -1,3 +1,9 @@
 # Header file หรือ file .h 
 
-สำหรับ lab นี้ ไม่ถูกมุ่งเน้นไปทางการใช้ header file มาก จึงจะอธิบายนสั้น โดยหากอยากรู้เพิ่มเติมสามารถกดเข้าไปที่ :[Github](https://github.com/Saifa36622/FIBO_LAB/blob/main/exlain_lab3/explain_basic_header_and_class.md) (อ่านแค่เรื่อง header พอๆ)
+สำหรับ lab นี้ ไม่ถูกมุ่งเน้นไปทางการใช้ header file มาก เนื่องจากส่วนใหญ่ มีโค้ด template ที่อาจารย์ทำมาไไว้ให้แล้วส่วนหนึ่ง จึงจะอธิบายสั้นๆ โดยหากอยากรู้เพิ่มเติมสามารถกดเข้าไปที่ :[Github](https://github.com/Saifa36622/FIBO_LAB/blob/main/exlain_lab3/explain_basic_header_and_class.md) (อ่านแค่เรื่อง header พอๆ)
+
+## อธิบายคร่าวๆ 
+
+header file จะเป็นเหมือน libraly เราสามารถเขียน ไว้ที่ .h และ ดึงไปใช้ที่ file .cpp ได้
+เช่น 
+[Github](https://camo.githubusercontent.com/2212a0427686e90039d366806607296f4ac21791861c985867bf58b8ed35cc66/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3738343830343336363930343539303338382f313037333933343631353135343237383433312f696d6167652e706e67)
