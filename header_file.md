@@ -6,4 +6,4 @@
 
 header file จะเป็นเหมือน libraly เราสามารถเขียน ไว้ที่ .h และ ดึงไปใช้ที่ file .cpp ได้
 เช่น 
-![code2](https://media.discordapp.net/attachments/784804366904590388/1073929895996051467/image.png)
+![code3](https://media.discordapp.net/attachments/784804366904590388/1073933763664425060/image.png)
