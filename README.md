@@ -9,13 +9,13 @@
 - lookup_table_utils.h
 - lookup_table_utils.cpp
 
-โดย instuction จะอยู่ใน file .h สามารถเข้าไปอ่านและทำตามได้
+โดย instuction จะอยู่ใน file .h ของมัน สามารถเข้าไปอ่านและทำตามได้
 
 2. หัวข้อ class
 - lookup_table.h
 - lookup_table.cpp
 
-โดย instuction จะอยู่ใน file .h สามารถเข้าไปอ่านและทำตามได้
+โดย instuction จะอยู่ใน file .h ของมัน สามารถเข้าไปอ่านและทำตามได้
 
 โดย file example.cpp จะเป็นตัวอย่างการใช้คำสั่งต่างๆ ของ vector เช่น map set sort บลาๆ 
 
