@@ -39,10 +39,6 @@ output
 
 output
 
-![www](https://cdn.discordapp.com/attachments/760118761348399148/1207123552130568232/image.png?ex=65de806a&is=65cc0b6a&hm=716a0f6deb4f5228b794fc470073de6b53274b9e673a7a643ef1076c89239680&)
-
-output
-
 ![www](https://cdn.discordapp.com/attachments/760118761348399148/1207123729709011025/image.png?ex=65de8094&is=65cc0b94&hm=7643fda175dba11f82462c79eae7e28e24a11d6ad2b8573c4e2fe06d2b25b219&)
 
 
