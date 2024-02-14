@@ -23,6 +23,28 @@
 
 ## แนะนำให้ดู stuct ก่อน class เด้อๆ 
 
+#### ตัวอย่าง output ที่น่าจะเป็น (อันนี้เขียนใน main ของจาร)
+
+##### struct
+![www](https://cdn.discordapp.com/attachments/760118761348399148/1207122532398931978/image.png?ex=65de7f76&is=65cc0a76&hm=81a70e7aac14c438afd039aa06a1873513cee8059c2fc132410a1f62feccdfc1&
+)
+
+output 
+
+![www](https://cdn.discordapp.com/attachments/760118761348399148/1207122897622012045/image.png?ex=65de7fce&is=65cc0ace&hm=4eeab50003cb32fb4238ed9f3a8d036d51e250b998b4f5659d0cf3e286bcda73&)
+
+##### class 
+
+![www](https://cdn.discordapp.com/attachments/760118761348399148/1207123247422898266/image.png?ex=65de8021&is=65cc0b21&hm=70ebcaba17a7be22eb3333e5395a681d39f2c517916c673c6141656eab53da02&)
+
+output
+
+![www](https://cdn.discordapp.com/attachments/760118761348399148/1207123552130568232/image.png?ex=65de806a&is=65cc0b6a&hm=716a0f6deb4f5228b794fc470073de6b53274b9e673a7a643ef1076c89239680&)
+
+output
+
+![www](https://cdn.discordapp.com/attachments/760118761348399148/1207123729709011025/image.png?ex=65de8094&is=65cc0b94&hm=7643fda175dba11f82462c79eae7e28e24a11d6ad2b8573c4e2fe06d2b25b219&)
+
 
 
 

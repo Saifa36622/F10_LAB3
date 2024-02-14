@@ -12,12 +12,45 @@
 ![www](https://cdn.discordapp.com/attachments/760118761348399148/1207115081930772480/image.png?ex=65de7886&is=65cc0386&hm=2d6307f0a2ac1e3d89053dc41b1ddee17e6e1958f92685c927d93f6f2e917a4f&)
 
 จากภาพจะเห็นว่า ใน wowzaa จะมีตัวแปรหลายๆ ตัวและ หลายๆประเภท 
-![alt text](image.png)
+
+![www](https://cdn.discordapp.com/attachments/760118761348399148/1207117503021715456/image.png?ex=65de7ac7&is=65cc05c7&hm=155e88abf0a416ec3a0ce28a776fba03df0595ee7e881d055e935ae498a8e62c&)
+
+
 โดยเราจะสามารถเรียกใช้ค่าต่างได้ดังนี้
 
+![www](https://cdn.discordapp.com/attachments/760118761348399148/1207117503021715456/image.png?ex=65de7ac7&is=65cc05c7&hm=155e88abf0a416ec3a0ce28a776fba03df0595ee7e881d055e935ae498a8e62c&)
 
 
 จากนั้นจึงเรียกใช้อย่างนี้ๆ 
+
+![www](https://cdn.discordapp.com/attachments/760118761348399148/1207118028869734480/image.png?ex=65de7b45&is=65cc0645&hm=45db29e9291cac904d5a690b8c2d599e63545dd801cdf3337a77bca940f94c3e&
+)
+
+โดยหากอยากรู้เพิ่มเติมสามารถเข้าไปดูได้ที่นี้ [Github](https://github.com/Saifa36622/FIBO_LAB/blob/main/exlain_lab3/explain_basic_header_and_class.md) พื้นฐานของ stuct จะมีความคล้ายกับ class อยู่แล้ว แต่ class จะสามรารถนำไประยุคย์ซับซ้อนกว่า ซึ่งจะได้ใช้ในอนาคต
+
+ดังนั้นเมื่อเปิดมาฟังชั่นแรก ที่เราจะเจอจากโจทย์ของอาจารย์คือ 
+
+![www](https://cdn.discordapp.com/attachments/760118761348399148/1207119212120641566/image.png?ex=65de7c5f&is=65cc075f&hm=d44b95149792811028b82305a4f109536948bf594c2c51680ef10d00a74217e7&
+)
+
+ให้เราใส่ตัวแปรที่คิดว่า stuct นี้ควรมี เป็นตัวแปรประเภทอะไร มีกี่ตัว (ลองอ่านจากใน .cpp เป็น หรือ comment อาจารย์ได้ๆ)
+
+### using LookupTableData = <data_type>; ถ้าใช้เป็นจะไวขึ้น
+
+โดยฟังชั่นต่อมา คือ การสร้างข้อมูลในรูปแบบตาราง เช่นๆๆ 
+
+![www](https://cdn.discordapp.com/attachments/760118761348399148/1207120536883306566/image.png?ex=65de7d9b&is=65cc089b&hm=53cf8c886027f832fe0808695e74f6481d5d7a1af88e2bf784bf659e2e36646e&
+)
+
+โดยที่เงื่อนไขที่เขาต้องการคือ ให้ ค่าผั่ง x นั้นจะต้องไม่ซ้ำกัน และ เรียงกัน จากน้อยไปมาก (อารมณ์เหมือน กราฟปกตินั้แหละ) 
+
+![www](https://cdn.discordapp.com/attachments/760118761348399148/1207121191790182430/image.png?ex=65de7e37&is=65cc0937&hm=6b526d8a4f4cd00ddca27e4076b887d19044fbe753dab100366f8cf69c63401f&
+)
+
+จากที่เห็นในภาพ คือเขาก็จะรับ ค่า time กับ position เข้ามา 2 ค่า จากนั้นก็จะเป็นหน้าที่ของเราที่จะนำค่าเหล่านั้นมา check ด้วย condition (if else ธรรมดา รวมกับ คำสั่งของ vector สามารถไปดูได้ที่ file ตัวอย่างคำสั่งเดียวเขียนไว้ให้ๆ ถ้าทัน ไม่ก็ดูใน .example ของจารก็ได้ๆ)
+
+หากเข้าเงื่อนไขทั้งหมด function นี้จะ return ออกมาในรูปแบบของ stuct ที่ประกอบไปด้วยเวลาและ position ที่ใส่เข้ามา
+
 
 
 
